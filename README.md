@@ -21,18 +21,13 @@
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-----
- 
-### 🤤 ғᴇᴀᴛᴜʀᴇs
-
-- [»] sᴜᴩᴩᴏʀᴛs ᴩʏʀᴏɢʀᴀᴍ ᴠ2 🔥
-- [»] sᴀғᴇsᴛ ʙᴏᴛ ᴇᴠᴇʀ 🔥
+---
 - [»] sᴜᴩᴩᴏʀᴛs ᴩʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ 🔥
 - [»] sᴜᴩᴩᴏʀᴛs sᴇssɪᴏɴ ɢᴇɴ ғᴏʀ ʙᴏᴛғᴀᴛʜᴇʀ ʙᴏᴛs
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Shubhxspam/StringGenBotx"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ASIFXQUEEN/QUEENXSTRUNGGEN2.0"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
